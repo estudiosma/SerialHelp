@@ -85,7 +85,7 @@ This project was developed by **Estudios MA**, with a focus on biomedical acquis
 
 If you use this code, hardware, or documentation as part of your personal or academic project, **please reference:**
 
-Molina-Vidal, D.A., Estudios MA (2025). *AccelHelp*. Available online: https://github.com/estudiosma/AccelHelp
+Molina-Vidal, D.A., Estudios MA (2025). *SerialHelp*. Available online: https://github.com/estudiosma/SerialHelp
 
 ---
 
