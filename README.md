@@ -74,9 +74,6 @@ Just donwload and run the **MA-SerialHelp vX.X.exe** file and follow the on-scre
 🇪🇨 [**WhatsApp EC**](https://wa.me/593979287659?text=Hello%21+I+wish+to+purchase+the+device+%2AAccelHelp)  
 🇧🇷 [**WhatsApp BR**](https://wa.me/5521998957829?text=Hello%21+I+wish+to+purchase+the+device+%2AAccelHelp)
 
-📧 **Email:**  
-estudiosma01@gmail.com
-
 ---
 
 ## Credits and attribution
@@ -85,7 +82,7 @@ This project was developed by **Estudios MA**, with a focus on biomedical acquis
 
 If you use this code, hardware, or documentation as part of your personal or academic project, **please reference:**
 
-Molina-Vidal, D.A., Estudios MA (2025). *SerialHelp*. Available online: https://github.com/estudiosma/SerialHelp
+Estudios MA, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/estudiosma/SerialHelp
 
 ---
 
@@ -93,5 +90,4 @@ Molina-Vidal, D.A., Estudios MA (2025). *SerialHelp*. Available online: https://
 
 **Estudios MA – Electronic and Biomedical Engineering**  
 Eng. Danilo Molina, M.Sc  
-📧 estudiosma01@gmail.com  
 🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)

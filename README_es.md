@@ -72,8 +72,6 @@ Solo ejecuta el archivo **MA-SerialHelp vX.X.exe** y sigue las instrucciones en 
 📲 **Contáctame directamente por WhatsApp:**  
 [https://wa.me/593979287659](https://wa.me/593979287659)
 
-📧 **Correo electrónico:**  
-estudiosma01@gmail.com
 
 ---
 
@@ -83,7 +81,7 @@ Este proyecto fue desarrollado por **Estudios MA**, con enfoque en sistemas de a
 
 Si usas este código, hardware o documentación como parte de tu proyecto personal o académico, **por favor referencia:**
 
-Molina-Vidal, D.A., Estudios MA (2025). *AccelHelp*. Available online: https://github.com/estudiosma/AccelHelp
+Estudios MA, Molina-Vidal, D.A. (2025). *AccelHelp*. Available online: https://github.com/estudiosma/AccelHelp
 
 ---
 
@@ -91,5 +89,4 @@ Molina-Vidal, D.A., Estudios MA (2025). *AccelHelp*. Available online: https://g
 
 **Estudios MA – Electronic and Biomedical Engineering**  
 Eng. Danilo Molina, M.Sc  
-📧 estudiosma01@gmail.com  
 🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
