@@ -71,8 +71,8 @@ Basta baixar e executar o arquivo **MA-SerialHelp vX.X.exe** e seguir as instru�
 
 📲 **Entre em contato diretamente por:**  
 
-🇪🇨 [**WhatsApp EC**](https://wa.me/593979287659?text=Ol%C3%A1%21+Quero+adquirir+o+dispositivo+%2AAccelHelp)  
-🇧🇷 [**WhatsApp BR**](https://wa.me/5521998957829?text=Ol%C3%A1%21+Quero+adquirir+o+dispositivo+%2AAccelHelp)
+[**WhatsApp EC**](https://wa.me/593979287659?text=Ol%C3%A1%21+Quero+adquirir+o+dispositivo+%2AAccelHelp)  
+[**WhatsApp BR**](https://wa.me/5521998957829?text=Ol%C3%A1%21+Quero+adquirir+o+dispositivo+%2AAccelHelp)
 
 ---
 
