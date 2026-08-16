@@ -78,16 +78,16 @@ Just donwload and run the **MA-SerialHelp vX.X.exe** file and follow the on-scre
 
 ## Credits and attribution
 
-This project was developed by **Estudios MA**, with a focus on biomedical acquisition systems and signal analysis.
+This project was developed by **MA Electronik**, with a focus on biomedical acquisition systems and signal analysis.
 
 If you use this code, hardware, or documentation as part of your personal or academic project, **please reference:**
 
-Estudios MA, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/estudiosma/SerialHelp
+Estudios MA, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/maelectronik/SerialHelp
 
 ---
 
 ## ✍️ Author
 
-**Estudios MA – Electronic and Biomedical Engineering**  
+**MA Electronk**  
 Eng. Danilo Molina, M.Sc  
-🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
+🌐 [https://linkfly.to/MAElectronik](https://linkfly.to/MAElectronik)

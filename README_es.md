@@ -78,16 +78,16 @@ Solo ejecuta el archivo **MA-SerialHelp vX.X.exe** y sigue las instrucciones en 
 
 ## Créditos y atribución
 
-Este proyecto fue desarrollado por **Estudios MA**, con enfoque en sistemas de adquisición biomédicos y análisis de señales.
+Este proyecto fue desarrollado por **MA Electronik**, con enfoque en sistemas de adquisición biomédicos y análisis de señales.
 
 Si usas este código, hardware o documentación como parte de tu proyecto personal o académico, **por favor referencia:**
 
-Estudios MA, Molina-Vidal, D.A. (2025). *AccelHelp*. Available online: https://github.com/estudiosma/AccelHelp
+MA Electronik, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/maelectronik/AccelHelp
 
 ---
 
 ## ✍️ Autor
 
-**Estudios MA – Electronic and Biomedical Engineering**  
+**MA Electronik**  
 Eng. Danilo Molina, M.Sc  
-🌐 [https://linkfly.to/EstudiosMA](https://linkfly.to/EstudiosMA)
+🌐 [https://linkfly.to/MAElectronik](https://linkfly.to/MAElectronik)
