@@ -82,7 +82,7 @@ This project was developed by **MA Electronik**, with a focus on biomedical acqu
 
 If you use this code, hardware, or documentation as part of your personal or academic project, **please reference:**
 
-Estudios MA, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/maelectronik/SerialHelp
+MA Electronik, Molina-Vidal, D.A. (2025). *SerialHelp*. Available online: https://github.com/maelectronik/SerialHelp
 
 ---
 
